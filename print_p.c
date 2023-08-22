@@ -1,4 +1,4 @@
-"main.h"
+#include "main.h"
 /**
   * _printf - duplicate of printf
   * @format: format string
